@@ -1,0 +1,22 @@
+@media (max-width: 1200px) {
+
+.principal{
+    max-width: 200px;
+    justify-content: center;
+}
+.butoes{
+    align-items: center;
+
+}
+.area-butoes{
+   align-items: center;
+   max-width: 300px;
+}
+.cabecario{
+    align-items: center;
+}
+#aviso{
+    text-align: center;
+}
+}
+
